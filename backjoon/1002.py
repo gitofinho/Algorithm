@@ -1,3 +1,4 @@
+# backjoon 1002., 23.11.30
 import math
 
 n = int(input())
