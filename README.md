@@ -1,3 +1,3 @@
-## Algorithm
-# Backjoon 
-# at least 1 prob. on 1 week
+## Algorithm Study
+Backjoon 
+at least 1 prob. on 1 week
